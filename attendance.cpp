@@ -1,3 +1,8 @@
+/* A simple CPP code to fetch the attendance of students and search if the student is present using binary and linear search*/
+
+
+
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
